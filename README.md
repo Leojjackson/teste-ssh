@@ -1,0 +1,1 @@
+# Olá! esse repositório está sendo udado para estudos do git remote. e apenas para essa finalidade.
